@@ -38,7 +38,8 @@
 <p>2 calculate the probabilities using the counts =nbr of occurences devides by all the occurences</p>
 <p><strong>the markov property</strong>: states that the probability of the next event only depends<br />on the current event.<br /><strong>Hidden Markov Models: (HMM)</strong> implies that states are hidden or not directly observable from data.</p>
 <p><br /><strong>Emission Probabilies:</strong> it's an addition probabilies in hidden satetes, and refers to the transition from <br />the hidden states of your hidden Markov model (verb, Noun, O ..) to the observables ro the words <br />of the corpus (hello how are doing) Table = row for the hidden states =column is designated for <br />each of the observables.</p>
-<p><br /><strong>The Viterbi algorithm:</strong> is graph algorithm picturing the problem we want to solve on the graph(initialization step, forward pass, Backward pass)</p>
+<p><br/><strong>The Viterbi algorithm:</strong> is graph algorithm picturing the problem we want to solve on the graph(initialization step, forward pass, Backward pass)</p>
+
 - [1.Week 2](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2)
   - [1.1 Resume Courses](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2/resume_cours)
       - [Training naïve Bayes](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week2/resume_cours/Training%20na%C3%AFve%20Bayes%20_%20Coursera.pdf)
