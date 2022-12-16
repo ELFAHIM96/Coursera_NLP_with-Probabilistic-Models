@@ -21,7 +21,24 @@
     ### Python Code
   - [1.2 lecture Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week1/C1_W1_lecture_nb)
   - [1.3 Assignment Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week1/C1_W1_assignment)
-### week2 (Naïve Bayes NLP)
+**************************************
+### week2 Part of Speech Tagging and Hidden Markov Model (HMM)
+***************************************
+<p>In this Week I learned about Markov chains and hidden Markov models then<br />I use HMM to create part of speech tags for a wall street jornal text corpera</p>
+<ul>
+<li><strong>Part of speech Tagging</strong></li>
+<li><strong>Markov chains models</strong></li>
+<li><strong>Hidden Markov models</strong></li>
+<li><strong>Viterbi algorithm</strong></li>
+<li><strong>Exemple</strong></li>
+<li><strong>Codding assignment!</strong></li>
+</ul>
+<p>Part of speech refers to the category of words of the lexical terms in a language<br />for <strong>exemple (verb, adjective, adverb, pronoun, preposition...)</strong> but wring <br />this terms can become cumbersome during text analysis. so we are going to use a short <br />representation called tags to represent this categories. the process of assigning this tags to the words<br />of a sentence or corpus is referred to as parts of speech tagging (POS)tagging for shorts.<br />Markov chains: they are type of stochastic model that describes a sequences of possibles evnets<br />to get the probabilit&eacute; of each event it needs only the states of the previous events<br /> <strong>transition probabilities</strong>: tell about the chances of going from state (POS tag) to another (POS tag)<br />to calculate this probailities:</p>
+<p>1. count occurrences of tag pairs</p>
+<p>2 calculate the probabilities using the counts =nbr of occurences devides by all the occurences</p>
+<p><strong>the markov property</strong>: states that the probability of the next event only depends<br />on the current event.<br /><strong>Hidden Markov Models: (HMM)</strong> implies that states are hidden or not directly observable from data.</p>
+<p><br /><strong>Emission Probabilies:</strong> it's an addition probabilies in hidden satetes, and refers to the transition from <br />the hidden states of your hidden Markov model (verb, Noun, O ..) to the observables ro the words <br />of the corpus (hello how are doing) Table = row for the hidden states =column is designated for <br />each of the observables.</p>
+<p><br /><strong>The Viterbi algorithm:</strong> is graph algorithm picturing the problem we want to solve on the graph(initialization step, forward pass, Backward pass)</p>
 - [1.Week 2](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2)
   - [1.1 Resume Courses](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2/resume_cours)
       - [Training naïve Bayes](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week2/resume_cours/Training%20na%C3%AFve%20Bayes%20_%20Coursera.pdf)
@@ -32,7 +49,37 @@
 ### Python Code
   - [1.2 lecture Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2/C1_W2_lecture_naive_bayes)
   - [1.3 Assignment Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2/C1_W2_Assignment)
-### Week3 (Vector space Models  NLP)
+ *********************************************************
+### Week3 Autocomplete and Language Models
+*********************************************************
+In ths week we learned the following concept:
+<ul>
+<li>
+<p>N-Grams and probabilities</p>
+</li>
+<li>
+<p>Approximate sentence probability from N-Grams</p>
+</li>
+<li>
+<p>Build a language model from a corpus</p>
+</li>
+<li>
+<p>Fix missing information</p>
+</li>
+<li>
+<p>Out of vocabulary words with &lt;UNK&gt;</p>
+</li>
+<li>
+<p>Missing N-Gram in corpus with smoothing, backoff and interpolation</p>
+</li>
+<li>
+<p>Evaluate language model with perplexity</p>
+</li>
+<li>
+<p>Coding assignment!</p>
+</li>
+</ul>
+
 - [1.Week 3](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week3)
   - [1.1 Resume Courses](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week3/resum_cours)
       - [Word by Word and Word by Doc](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week3/resum_cours/Word%20by%20Word%20and%20Word%20by%20Doc.%20_%20Coursera.pdf)
