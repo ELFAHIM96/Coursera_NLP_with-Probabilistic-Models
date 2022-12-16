@@ -1,11 +1,6 @@
 # Natural Language Processing with Probabilistic Models
-## All Cours
-#### 1-Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
-#### 2-Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships
-#### 3-Write a simple English to French translation algorithm using pre-computed word embeddings and locality-sensitive hashing to relate words via approximate k-nearest neighbor search.  
-
 **********************************
-### Week 1 Autocorrect and Minimum Edit distance
+### Week 1 [Autocorrect and Minimum Edit distance](https://github.com/ELFAHIM96/Coursera_NLP_with-Probabilistic-Models/tree/main/NLP_with%20Probabilistic%20Models/Week%201)
 *****************************
 <p style="padding-left: 30px;">In this week I learned how identify misspelled words, and what is an additive distance, I learned how to build a model to perform an autocorrect and how to calculate probabilities of the correct word.</p>
 <p><br /><strong>autocorrect</strong>: is an application that changes the misspelled words to correct ones</p>
