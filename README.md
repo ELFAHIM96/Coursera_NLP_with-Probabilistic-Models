@@ -106,8 +106,7 @@ In ths week we learned the following concept:
 ### Python Code
   - [1.2 lecture Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week4/Week_4%20Lecture_Code)
   - [1.3 Assignment Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week4/week_4_assignment%20_Code)
-![image](https://user-images.githubusercontent.com/65721811/182025551-595433c7-25b7-4b8d-9a87-08eca146a94d.png)
 ### Certificate 
-![image](https://user-images.githubusercontent.com/65721811/208066419-34c8bbbb-73d2-4318-a2b3-b7408c724113.png)
+![image](https://user-images.githubusercontent.com/65721811/208101290-04cae142-4de4-40c3-b475-c535fc44a1ef.png)
 
 
