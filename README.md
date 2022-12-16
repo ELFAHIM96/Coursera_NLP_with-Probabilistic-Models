@@ -7,10 +7,6 @@
 **********************************
 
 ### Week 1 Autocorrect and Minimum Edit distance
-<p>In this week I learned how identify misspelled words, and what is an additive distance, <br />
-  I learned how to build a model to perform an autocorrect<br />and how to calculate probabilities 
-  of the correct word.<br /><strong>autocorrect</strong>: is an application that changes the misspelled words to correct ones<br /><strong>minimum Edit Distance</strong> <span style="color: #ff0000;">(Levenshtein distance)</span>: the lowest number of operations needed to tranform one strings into the <br />other. it could be sused in many application like spelling correction, document similatity and machine translation<br /><strong>dynamic programming:</strong> You first solve the smallest subproblem first and then reusing that result you 
-  solve the next biggest subproblem<br />then I buil dmy own spellcheker to correct misspelled words:</p>
   *****************************
 - [1.Week 1](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week1)
   - [1.1 Resume Courses](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week1/Resume%20cours1)
